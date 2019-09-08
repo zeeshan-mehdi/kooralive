@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721277663030",
+    "firebase_url": "https://kooralive-1517178035142.firebaseio.com",
+    "project_id": "kooralive-1517178035142",
+    "storage_bucket": "kooralive-1517178035142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721277663030:android:ba242e4d7834b16e07e597",
+        "android_client_info": {
+          "package_name": "us.kooralive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721277663030-0fi4kqt62q6gop4e7ta9m3c25pvua0t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUr15R8f211ue2aLm-ROBM9d-aAXjhV2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721277663030-0fi4kqt62q6gop4e7ta9m3c25pvua0t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
